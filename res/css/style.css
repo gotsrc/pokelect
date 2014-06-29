@@ -1,0 +1,19 @@
+@import url('lumen.min.css');
+@import url('font-awesome.min.css');
+@import url('colours.css');
+
+@font-face{font-family:'Lobster';src:url('../fonts/lobster.otf'); }
+
+*, html { padding: 0; border: 0; }
+body { background-color: #f1f1f1; }
+.power { background-color: #ba0000; color: #fff; }
+.power .fa-power-off { color: #fff; text-shadow: 2px 2px 0px rgba(0,0,0,0.2); }
+.power:hover { background-color: #aa0000; }
+.panel-primary>.panel-heading { background-color: #ba0000; }
+.fa-circle { color: #fff;}
+.fa-facebook,.fa-twitter,.fa-shopping-cart,.fa-users { color: #ba0000; text-shadow: 4px 4px 0px rgba(148,0,0,0.1); }
+.dropdown-menu li a:hover { background-color: #ba0000; color: #fff; }
+.jumbotron { box-shadow: 3px 3px 0px rgba(0,0,0,0.05); border: 0; }
+.panel-heading { background-color: #ff0000; padding-top: 15px; padding-bottom: 15px; margin-top: 0; }
+.panel { box-shadow: 3px 3px 0px rgba(0,0,0,0.05); border: 0; }
+

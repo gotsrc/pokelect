@@ -1,0 +1,1 @@
+<p class="error">You are <strong>NOT</strong> authorised to view this page.</p>
